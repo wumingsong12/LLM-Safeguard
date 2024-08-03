@@ -1,6 +1,6 @@
 # LLM-Safeguard
 
-Official repository for our ICML 2024 paper "[On Prompt-Driven Safeguarding for Large Language Models](https://arxiv.org/abs/2401.18018)"
+Official repository for our ICML 2024 paper "[On Prompt-Driven Safeguarding for Large Language Models](https://arxiv.org/abs/2401.18018)" 
 
 If you find this repository useful or our work is related to your research, please kindly cite it:
 
